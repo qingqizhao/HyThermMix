@@ -18,9 +18,9 @@ This repository provides an implementation of the GERG-2008 equation of state in
 
 ### Running the Code
 Run an example:
-'''
+```
 python examples/main.py
-'''
+```
 
-##References
+## References
 Kunz, O.; Wagner, W. The GERG-2008 Wide-Range Equation of State for Natural Gases and Other Mixtures. J. Chem. Eng. Data, 2012, 57, 3032–3091.
