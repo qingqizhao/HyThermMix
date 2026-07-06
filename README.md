@@ -4,7 +4,7 @@ This repository provides an implementation of the GERG-2008 equation of state in
 
 ## Features
 
-- Calculate thermodynamic properties (P, T, rho, h, s, u, etc.) from specified inputs.
+- Calculate thermodynamic properties (P, T, rho, h, s, u, etc.).
 - Supports a variety of components defined in the `src/components` directory.
 - Uses `numpy` and `scipy` for mathematical computations and solving nonlinear equations.
 
